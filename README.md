@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<div align="center">
+
+<h3>Hi there 👋</h3>
+
+<h4>Welcome to my GitHub profile!</h4>
 
 <!--
 **edgarrmondragon/edgarrmondragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarrmondragon&theme=dark&show_icons=true)](https://github.com/edgarrmondragon)
+<a href="https://github.com/edgarrmondragon">
+    <img src="https://github-readme-stats.vercel.app/api?username=edgarrmondragon&theme=dark&show_icons=true" alt="GitHub stats">
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarrmondragon&hide=TeX&layout=compact&theme=dark)
+<a href="https://github.com/edgarrmondragon">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarrmondragon&hide=TeX&layout=compact&theme=dark" alt="Top Languages">
+</a>
+
+<h4>Adopt an Axolotl ᓬ(•ᴗ•)ᕒ</h4>
+
+<a href="https://www.ib.unam.mx/ib/adopta-axolotl/">
+    <img src="img/Logo-Adoptaxolotl.png" alt="Adopt an Axolotl" width="200">
+</a>
+
+</div>
