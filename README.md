@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h4>Adopt an Axolotl ᓬ(•ᴗ•)ᕒ</h4>
+
+<a href="https://www.ib.unam.mx/ib/adopta-axolotl/">
+    <img src="img/Logo-Adoptaxolotl.png" alt="Adopt an Axolotl" width="200">
+</a>
+
 <a href="https://github.com/edgarrmondragon">
     <img src="https://github-readme-stats.vercel.app/api?username=edgarrmondragon&theme=dark&show_icons=true" alt="GitHub stats">
 </a>
 
 <a href="https://github.com/edgarrmondragon">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarrmondragon&hide=TeX&layout=compact&theme=dark" alt="Top Languages">
-</a>
-
-<h4>Adopt an Axolotl ᓬ(•ᴗ•)ᕒ</h4>
-
-<a href="https://www.ib.unam.mx/ib/adopta-axolotl/">
-    <img src="img/Logo-Adoptaxolotl.png" alt="Adopt an Axolotl" width="200">
 </a>
 
 </div>
