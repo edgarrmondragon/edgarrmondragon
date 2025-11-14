@@ -29,9 +29,12 @@ Here are some ideas to get you started:
 
 </div>
 
+<!--
 <a href="https://github.com/edgarrmondragon">
     <img src="https://github-readme-stats.vercel.app/api?username=edgarrmondragon&theme=dark&show_icons=true" alt="GitHub stats">
 </a>
+
+-->
 
 <a href="https://github.com/edgarrmondragon">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgarrmondragon&hide=TeX&layout=compact&theme=dark" alt="Top Languages">
