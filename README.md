@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<h4>If you like my work, please considering sponsoring me or _adopt an Axolotl_ ᓬ(•ᴗ•)ᕒ</h4>
+<h4>If you like my work, please considering sponsoring me or <i>adopt an Axolotl</i> ᓬ(•ᴗ•)ᕒ</h4>
 
 <a href="https://www.ib.unam.mx/ib/adopta-axolotl/">
     <img src="img/Logo-Adoptaxolotl.png" alt="Adopt an Axolotl" width="200">
